@@ -7,13 +7,13 @@
 
 - 🖥️ Desarrollo un proyecto de [Asistencia Médica en Casa](http://)
 
-- 👨‍💻 Algunos proyectos en [Pendiente](Pendiente)
+- 👨‍💻 Algunos proyectos en [Pendiente](http://)
 
 - 📫 Me encuentras **juanaleman19@gmail.com**
 
 - ⚡ Fun fact **También desarrollo proyectos musicales :)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Mis redes:</h3>
 <p align="left">
 <a href="https://twitter.com/ale_mangou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ale_mangou" height="30" width="40" /></a>
 <a href="https://instagram.com/alemangou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alemangou" height="30" width="40" /></a>

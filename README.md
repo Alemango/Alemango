@@ -6,7 +6,7 @@
 - 📡 Curso el Diplomado Internet de las Cosas en [Código IoT](https://www.codigoiot.com/curso/seminario-iot-de-samsung-innovation-campus)
 - 🧠 Ciclo Especializado de Microsoft Azure | Inteligencia Artificial | [Certificación: Microsoft Azure Fundamentals AZ 900](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/)
 
-- 🖥️ Desarrollo un proyecto de [Asistencia Médica en Casa](http://)
+- 🖥️ Desarrollo un proyecto de [Asistencia Médica en Casa](https://github.com/Alemango/CapstoneIoT)
 
 - 👨‍💻 Algunos proyectos en [Pendiente](http://)
 

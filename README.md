@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Juan Jesús “Alemán” 👋</h1>
+<h1 align="center">Hola, soy Juan Alemán </h1>
 <h3 align="center">Machine Learning Engineer · AI Engineer · Data Engineer | Builder de productos (Flutter, LLMs, IoT)</h3>
 
 <p align="center">
